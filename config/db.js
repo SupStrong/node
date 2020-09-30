@@ -48,7 +48,7 @@ db.connection = function(){
         // user:'root',
         password:'123456',
         // password:'root',
-        database:'mall',
+        database:'node',
         port:3306,
         dateStrings: true  //将时间转换为字符串
     });
